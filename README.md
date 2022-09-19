@@ -1,5 +1,5 @@
 # Limited (16－235) → Full (0－255) RGB Range Shader:
-You got a Blu-ray or video file that was annoyingly rendered in the limited colour range? 
+You got a Blu-ray/DVD or video file that was annoyingly rendered in the limited colour range? 
 Everything all grey as a result? 
 This soloution will provide a solution.
 
