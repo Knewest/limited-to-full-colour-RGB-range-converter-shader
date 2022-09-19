@@ -11,6 +11,9 @@ This shader was created for PlayerFab but it should also work within MPC-HC aswe
 
 # How to import shader to use in PlayerFab:
 1 - Follow the directory "C:\Program Files\DVDFab\Player 6\system\shaders\fx".
+
 2 - Change 'C:' to whichever letter your drive is that contains PlayerFab.
+
 3 - Unzip the file and place the .fx file inside of the folder.
+
 4 - During video/disc playback right click the video and go to the 'Shaders' tab.
