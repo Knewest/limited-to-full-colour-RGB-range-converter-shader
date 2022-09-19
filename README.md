@@ -16,4 +16,4 @@ This shader was created for PlayerFab but it should also work within MPC-HC aswe
 
 3 - Unzip the file and place the .fx file inside of the folder.
 
-4 - During video/disc playback right click the video and go to the 'Shaders' tab.
+4 - During video/disc playback right click the video and go to the 'Shaders' tab and find the installed solution.
