@@ -45,6 +45,37 @@ Modified 0-255 (With solution):
 
 These screenshots were taken from the Blu-ray playback of "30歳まで童貞だと魔法使いになれるらしい".
 
+Original 16-235 (Without solution):
+![ExampleLimited1](https://user-images.githubusercontent.com/94736474/191239233-ae38551c-9a94-4b3c-96fe-e11e0b511f57.png)
+
+Modified 0-255 (With solution):
+![ExampleFull1](https://user-images.githubusercontent.com/94736474/191239277-e12583b5-8cdb-4a15-a004-6a252dd017ab.png)
+
+Original 16-235 (Without solution):
+![ExampleLimited2](https://user-images.githubusercontent.com/94736474/191239348-4d68b054-6c01-4c68-8791-a35093854cbd.png)
+
+Modified 0-255 (With solution):
+![ExampleFull2](https://user-images.githubusercontent.com/94736474/191239369-50df3fa4-c641-4204-b761-22e8ffdc2a0e.png)
+
+Original 16-235 (Without solution):
+![Uploading ExampleLimited3.png…]()
+
+Modified 0-255 (With solution):
+![ExampleFull3](https://user-images.githubusercontent.com/94736474/191239439-40025dae-cf9c-40a0-844d-d6b50c5c617e.png)
+
+Original 16-235 (Without solution):
+![ExampleLimited4](https://user-images.githubusercontent.com/94736474/191239480-2f5085bf-ef63-48a4-aae7-9aedade11a6b.png)
+
+Modified 0-255 (With solution):
+![ExampleFull4](https://user-images.githubusercontent.com/94736474/191239497-5fb05e5e-446e-4b84-b345-367d1b65f4f6.png)
+
+Original 16-235 (Without solution):
+![ExampleLimited5](https://user-images.githubusercontent.com/94736474/191239536-472f18ab-6d0f-4cec-acc9-31bb0a37110b.png)
+
+Modified 0-255 (With solution):
+![ExampleFull5](https://user-images.githubusercontent.com/94736474/191239543-a9571352-7de8-4f90-b530-869df60ef079.png)
+
+These screenshots were taken from the DVD (PAL) playback of "Vampire Knight".
 
 
 Note: This is modified code from an unkown source and I didn't make this from scratch.
