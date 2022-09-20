@@ -58,7 +58,7 @@ Modified 0-255 (With solution):
 ![ExampleFull2](https://user-images.githubusercontent.com/94736474/191239369-50df3fa4-c641-4204-b761-22e8ffdc2a0e.png)
 
 Original 16-235 (Without solution):
-![Uploading ExampleLimited3.png…]()
+![ExampleLimited3](https://user-images.githubusercontent.com/94736474/191239960-67fff861-f6b0-4d88-8a03-aa95025df497.png)
 
 Modified 0-255 (With solution):
 ![ExampleFull3](https://user-images.githubusercontent.com/94736474/191239439-40025dae-cf9c-40a0-844d-d6b50c5c617e.png)
